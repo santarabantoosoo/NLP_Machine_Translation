@@ -1,6 +1,9 @@
+
+
 # NLP_Machine_Translation
 Vanderbilt data science master's program: Machine learning 2 course
 
+![image](https://user-images.githubusercontent.com/89158603/189461796-f22c2055-a630-4c97-89b6-c864b14f7f93.png)
 
 ## Resources to explore:   
 
