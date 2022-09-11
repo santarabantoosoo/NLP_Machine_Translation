@@ -1,7 +1,13 @@
 
 
-# NLP_Machine_Translation
+# NLP
 Vanderbilt data science master's program: Machine learning 2 course
+
+## Team
+
+- Henry Savich - HSavich / hhsavich@gmail.com / henry.h.savich@vanderbilt.edu
+- Mahmoud Hamza - santarabantoosoo / mah.mo.hamza@gmail.com / mahmoud.m.hamza@vanderbilt.edu
+- Shea Conaway - sheacon / shea.conaway@gmail.com / shea.conaway@vanderbilt.edu
 
 ![image](https://user-images.githubusercontent.com/89158603/189461796-f22c2055-a630-4c97-89b6-c864b14f7f93.png)
 
